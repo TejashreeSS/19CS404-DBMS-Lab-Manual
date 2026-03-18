@@ -342,7 +342,9 @@ CREATE TABLE Invoices (
 
 <img width="833" height="375" alt="image" src="https://github.com/user-attachments/assets/856bdc1e-8c98-4393-845e-5502064b3a4e" />
 
-<img width="861" height="499" alt="image" src="https://github.com/user-attachments/assets/e9f33491-f291-4948-981d-cea05cd580f1" />
+## MARKS:
+<img width="1875" height="910" alt="image" src="https://github.com/user-attachments/assets/27424efb-feb7-46d8-9f0a-c07170f8f092" />
+
 
 
 ## RESULT
